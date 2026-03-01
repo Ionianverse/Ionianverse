@@ -1,7 +1,4 @@
-# Umesh Zampadiya
-
-Business Operations Analyst  
-Focused on Logistics Operations Analytics  
+# Umesh Zampadiya — Data & Operations Analytics Portfolio 
 
 I work in a structured enterprise environment where operational accuracy, process discipline, and reporting reliability directly impact business execution.
 
@@ -88,7 +85,9 @@ Through my current role, I regularly work with:
 - Shipment and logistics data  
 - Workflow status tracking  
 - SLA-based processing metrics  
-- Data cleaning tasks in Excel 
+- Excel data cleaning
+- Business communication
+- Business Audit 
      
 This gives me contextual understanding of how operational data translates into measurable business outcomes.
 
@@ -132,4 +131,5 @@ My focus is on creating reliable data systems that accountable and streamline bu
 𝘛𝘩𝘢𝘯𝘬 𝘺𝘰𝘶 𝘧𝘰𝘳 𝘷𝘪𝘴𝘪𝘵𝘪𝘯𝘨 𝘮𝘺 𝘱𝘳𝘰𝘧𝘪𝘭𝘦.
 
 LinkedIn: https://www.linkedin.com/in/umeshzampadiya/
+E-mail: umeshsubhashbhai2000@gmail.com
 
