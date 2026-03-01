@@ -129,4 +129,7 @@ To move into a structured Data Analyst role where operational understanding and 
 
 My focus is on creating reliable data systems that accountable and streamline business decisions.
 
-Thanks you for visiting my profile.
+𝘛𝘩𝘢𝘯𝘬 𝘺𝘰𝘶 𝘧𝘰𝘳 𝘷𝘪𝘴𝘪𝘵𝘪𝘯𝘨 𝘮𝘺 𝘱𝘳𝘰𝘧𝘪𝘭𝘦.
+
+LinkedIn: https://www.linkedin.com/in/umeshzampadiya/
+
