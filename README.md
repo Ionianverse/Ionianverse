@@ -1,135 +1,78 @@
-# Umesh Zampadiya — Data & Operations Analytics Portfolio 
+# Umesh Zampadiya  
+### Data & Operations Analytics Portfolio  
 
-I work in a structured enterprise environment where operational accuracy, process discipline, and reporting reliability directly impact business execution.
+I work in a structured enterprise environment where operational accuracy, SLA discipline, and reporting reliability directly impact business execution.
 
-My role combines workflow management with data validation, structured reporting and business communication.
+## 💼 Enterprise Experience – Searce
 
----
+Analyst – Business Process Management at Searce, working with real operational and logistics data under defined compliance frameworks.
 
-## Enterprise Experience – Searce
+- Process structured business requests within SLA timelines  
+- Extract and validate cross-system operational data  
+- Generate shipment documentation (Bills of Lading, Labels)  
+- Maintain Excel-based workflow trackers  
+- Ensure data consistency across internal systems  
+- Follow compliance-driven SOP frameworks  
 
-As an Analyst – Business Process Management, I am responsible for:
-
-- Processing structured business requests within defined SLAs  
-- Extracting and validating operational data across internal systems  
-- Generating shipment documentation (Bills of Lading, Labels) and validation 
-- Maintaining Excel-based trackers for workflow visibility  
-- Ensuring cross-system data consistency    
-- Following compliance-driven SOP frameworks  
-- Communicating with internal stakeholders through structured email workflows  
-
-This role has strengthened my ability to work with real business data under accuracy and turnaround constraints.
+This role strengthened my accuracy mindset, process discipline, and business data exposure.
 
 ---
 
-## Core Analytical Capabilities
+## 📊 Core Capabilities
 
-- Operational Performance Analysis  
-- KPI Tracking & Reporting Systems  
-- Data Validation & Accuracy Auditing  
-- SQL-Based Business Querying  
-- Structured Excel Dashboard Design  
-- Business Process Mapping  
+- KPI Tracking & Performance Reporting  
+- Operational Data Validation  
+- SQL-Based Querying & Aggregation  
+- Excel Dashboard Development  
+- Process Efficiency Analysis  
 - Root Cause-Oriented Thinking  
 
 ---
 
-## Technical Stack
+## 🛠 Technical Stack
 
-**Data Handling & Reporting**
-- Microsoft Excel (Advanced Formulas, Pivot Tables, Dashboards)
-- SQL (Joins, Aggregations, Subqueries, KPI Extraction)
-- Power BI (Data Modeling & Visualization Basics)
-
-**Programming**
-
-- Python (Pandas, Data Cleaning, Visualization)
-- Basic Automation & Workflow Optimization
+**Excel** – Advanced formulas, Pivot Tables, Dashboards  
+**SQL** – Joins, Aggregations, Subqueries  
+**Power BI** – Data Modeling Basics  
+**Python** – Pandas, Data Cleaning, Automation  
 
 ---
 
-## Applied Projects
+## 📂 Applied Projects
 
 ### Logistics Operations Analytics  
-End-to-end operations analytics workflow built around realistic logistics metrics.  
-- Structured dataset creation  
-- SQL-based KPI extraction  
-- Excel dashboard for operational monitoring  
-- Revenue, delivery efficiency, and performance trend analysis  
-
-🔗 Repository: https://github.com/Ionianverse/logistics-operations-analytics-project
-
----
+SQL-based KPI extraction + Excel dashboard for logistics performance analysis.  
+🔗 https://github.com/Ionianverse/logistics-operations-analytics-project  
 
 ### Excel Sales KPI Dashboard  
-Interactive dashboard focused on business reporting clarity and structured aggregation logic.  
-- Revenue trend analysis  
-- Category and regional breakdown  
-- Dynamic filtering and KPI visibility  
-
-🔗 Repository: https://github.com/Ionianverse/Excel-Sales-KPI-Dashboard
-
----
+Dynamic reporting dashboard with revenue & category breakdown.  
+🔗 https://github.com/Ionianverse/Excel-Sales-KPI-Dashboard  
 
 ### Python Automation Experiment  
-Automation project exploring workflow efficiency and repetitive task optimization.  
-
-🔗 Repository: https://github.com/Ionianverse/Wallet-Automation
-
----
-
-## Operational Data Exposure
-
-Through my current role, I regularly work with:
-
-- Shipment and logistics data  
-- Workflow status tracking  
-- SLA-based processing metrics  
-- Excel data cleaning
-- Business communication
-- Business Audit 
-     
-This gives me contextual understanding of how operational data translates into measurable business outcomes.
+Workflow automation exploration project.  
+🔗 https://github.com/Ionianverse/Wallet-Automation  
 
 ---
 
-## Analytical Direction
+## 🎯 Analytical Direction
 
-I am preparing for a transition into a Data Analyst role focused on:
+Preparing for transition into a Data Analyst role focused on:
 
 - Operations & Logistics Analytics  
 - KPI Framework Development  
-- Performance Measurement Systems  
 - SQL-Driven Reporting  
-- Process Efficiency Analysis  
-- Data Quality & Validation Controls  
-
-My approach emphasizes:
-- Structured thinking  
-- Measurable business impact  
-- Reliable reporting discipline  
-- Continuous skill strengthening  
+- Process Efficiency & Data Quality  
 
 ---
 
-## Professional Strengths
+## 💡 Professional Strengths
 
-- High data accuracy mindset  
-- Process-oriented execution  
-- Calm under deadline-driven workflows  
+- High accuracy mindset  
+- Structured execution  
+- Deadline reliability  
 - Strong documentation discipline  
-- Continuous learner building practical analytics depth  
 
 ---
 
-## Objective
-
-To move into a structured Data Analyst role where operational understanding and analytical rigor combine to deliver measurable improvements in reporting accuracy, performance visibility, and process efficiency.
-
-My focus is on creating reliable data systems that accountable and streamline business decisions.
-
-𝘛𝘩𝘢𝘯𝘬 𝘺𝘰𝘶 𝘧𝘰𝘳 𝘷𝘪𝘴𝘪𝘵𝘪𝘯𝘨 𝘮𝘺 𝘱𝘳𝘰𝘧𝘪𝘭𝘦.
-
-LinkedIn: https://www.linkedin.com/in/umeshzampadiya/
-E-mail: umeshsubhashbhai2000@gmail.com
-
+LinkedIn: https://www.linkedin.com/in/umeshzampadiya/  
+Email: umeshsubhashbhai2000@gmail.com
